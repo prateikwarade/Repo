@@ -1,0 +1,18 @@
+remove-item -path "C:\Users\prateikwarade\Desktop\new2" -Force -Recurse -ErrorAction SilentlyContinue
+
+Prateiklead123
+git clone https://github.com/prateikwarade/NewNew.git
+
+.\1-DeployAndConfigureAzureResources.ps1 -resourceGroupName pcipaas2dec -globalAdminUserName pratik@pcidemoxoutlook560.onmicrosoft.com -globalAdminPassword PRAteiklead53! -azureADDomainName pcidemoxoutlook560.onmicrosoft.com -subscriptionID fb828b18-79dd-400c-919a-a393d88835e5 -suffix pkPCIcontosowebstore -sqlTDAlertEmailAddress admin1@avyanconsulting.com -customHostName azurecompliancesamples.online -enableSSL -enableADDomainPasswordPolicy
+
+
+
+
+
+
+
+
+
+
+urJkt21^EWHKe38
+.\2-EnableOMSLoggingOnResources.ps1 -resourceGroupName pcipaas1129 -globalAdminUserName pratik@pcidemoxoutlook560.onmicrosoft.com -globalAdminPassword PRAteiklead53! -subscriptionID fb828b18-79dd-400c-919a-a393d88835e5
